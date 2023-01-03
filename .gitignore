@@ -1,2 +1,2 @@
 # ignore files in data folder
-data//external/Yelp/*
+data/external/Yelp/*
