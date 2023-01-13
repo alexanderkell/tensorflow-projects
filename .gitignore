@@ -1,3 +1,4 @@
 # ignore files in data folder
 data/external/Yelp/*
 data/external/*
+models/yelp/tf_model.h5
