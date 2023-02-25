@@ -2,3 +2,4 @@
 data/external/Yelp/*
 data/external/*
 models/yelp/tf_model.h5
+models/yelp/*
